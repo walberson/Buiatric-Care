@@ -3,7 +3,9 @@ Buiatric Care Neurology
 
 Ferramenta didático-pedagógica para o diagnóstico de doenças do sistema nervoso de bovinos
 Software desenvolvido em linguagem Python 3
-Projeto para monografia de conclusão de curso em Medicina Veterinária]
+
+Projeto para monografia de conclusão de curso em Medicina Veterinária
+
 Buiatric Care Neurology é um software livre; você pode redistribuí-lo e/ou
 modificá-lo dentro dos termos da Licença Pública Geral GNU como
 publicada pela Fundação do Software Livre (FSF); na versão 3 da

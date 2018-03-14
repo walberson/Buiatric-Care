@@ -19,3 +19,5 @@ Licença Pública Geral GNU para maiores detalhes.
 
 Você deve ter recebido uma cópia da Licença Pública Geral GNU junto
 com este programa, Se não, veja <http://www.gnu.org/licenses/>.
+
+Desenvolvedores: Walberson Dias da Silva, Rinaldo Batista Viana e João Ferreira de Santanna Filho

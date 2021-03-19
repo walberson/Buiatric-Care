@@ -64,12 +64,10 @@
 
 [![Buiatric Care - Neurology][product-screenshot]](https://example.com)
 
-  The Buiatric Care Neurology software is a didactic-pedagogical tool to assist the user in the diagnosis of diseases of the nervous system.
-  To use the software, the user must check the checkboxes for the clinical signs presented by the animal. If the user does not find the clinical sign, it is recommended that the user looks for a synonym. After selecting the checkboxes, the user must press the “Search for disease” button. The program will open a window listing 30 diseases of the nervous system and their respective probabilities.
-  The 30 diseases will be listed in order of the most likely diseases. Then, the user can access an interactive library from the “Diseases library” button, present in the main window or in the diagnostic possibilities and probabilities window, whose purpose is to present information about the probable diseases.
-  This program is distributed in the hope that it can be useful,
-but WITHOUT ANY WARRANTY; without an implied warranty of FITNESS for any PARTICULAR MARKET or APPLICATION. see the
-GNU General Public License for more details.
+  <p>The Buiatric Care Neurology software is a didactic-pedagogical tool to assist the user in the diagnosis of diseases of the nervous system.
+  To use the software, the user must check the checkboxes for the clinical signs presented by the animal. If the user does not find the clinical sign, it is recommended that the user looks for a synonym. After selecting the checkboxes, the user must press the “Search for disease” button. The program will open a window listing 30 diseases of the nervous system and their respective probabilities.</p>
+  <p>The 30 diseases will be listed in order of the most likely diseases. Then, the user can access an interactive library from the “Diseases library” button, present in the main window or in the diagnostic possibilities and probabilities window, whose purpose is to present information about the probable diseases.</p>
+  <p>This program is distributed in the hope that it can be useful, but WITHOUT ANY WARRANTY; without an implied warranty of FITNESS for any PARTICULAR MARKET or APPLICATION. see the GNU General Public License for more details.</p>
   
   
 ### Built With

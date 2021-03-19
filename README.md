@@ -86,10 +86,10 @@ Below you will find information on how to use the software for the first time.
 
 ### Prerequisites
 
-To use the software you need to have:
-Operating system (Windows, Linux or MAC) with portability to Python 3x.
-Minimum 2gb of ram
-Minimum 1gb free hard disk space.
+<p>To use the software you need to have:</p>
+<p>Operating system (Windows, Linux or MAC) with portability to Python 3x.</p>
+<p>Minimum 2gb of ram.</p>
+<p>Minimum 1gb free hard disk space.</p>
 
 ### Installation
 

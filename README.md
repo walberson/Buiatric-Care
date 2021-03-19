@@ -20,8 +20,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/walberson/BuiatricCare-Neurology?style=for-the-badge">
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->

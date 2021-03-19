@@ -116,7 +116,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://www.python.org/downloads/](https://www.python.org/downloads/)
+1. Download the python application at [python.org/downloads/](https://www.python.org/downloads/)
 2. Clone the repo on
    ```sh
    git clone https://github.com/your_username_/Project-Name.git

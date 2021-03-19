@@ -1,20 +1,4 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -80,17 +64,14 @@
 
 [![Buiatric Care - Neurology][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+  The Buiatric Care Neurology software is a didactic-pedagogical tool to assist the user in the diagnosis of diseases of the nervous system.
+  To use the software, the user must check the checkboxes for the clinical signs presented by the animal. If the user does not find the clinical sign, it is recommended that the user looks for a synonym. After selecting the checkboxes, the user must press the “Search for disease” button. The program will open a window listing 30 diseases of the nervous system and their respective probabilities.
+  The 30 diseases will be listed in order of the most likely diseases. Then, the user can access an interactive library from the “Diseases library” button, present in the main window or in the diagnostic possibilities and probabilities window, whose purpose is to present information about the probable diseases.
+  This program is distributed in the hope that it can be useful,
+but WITHOUT ANY WARRANTY; without an implied warranty of FITNESS for any PARTICULAR MARKET or APPLICATION. see the
+GNU General Public License for more details.
+  
+  
 ### Built With
 
 Listed below are the frameworks and libraries used in the development of this software.
@@ -103,16 +84,14 @@ Listed below are the frameworks and libraries used in the development of this so
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Below you will find information on how to use the software for the first time. 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+To use the software you need to have:
+Operating system (Windows, Linux or MAC) with portability to Python 3x.
+Minimum 2gb of ram
+Minimum 1gb free hard disk space.
 
 ### Installation
 
@@ -121,15 +100,12 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-   or download at [https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip](https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip)
+   or download at [github.com/walberson/BuiatricCare-Neurology/archive/master.zip](https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip)
 3. Install NPM packages coding in you bash
    ```sh
    pip install PyQt5
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+4. Enter the application by clicking main_page.pyw
 
 
 
@@ -138,7 +114,7 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://https://github.com/walberson/BuiatricCare-Neurology/)_
 
 
 
@@ -212,28 +188,3 @@ Project Link: [https://github.com/walberson/BuiatricCare-Neurology](https://gith
 [linkedin-url]: https://www.linkedin.com/in/walbersonsilva/
 [product-screenshot]: images/screenshot.png
 
-Buiatric Care Neurology
-<p/>
-<img src=https://img.shields.io/github/license/walberson/BuiatricCare-Neurology>
-<p>Sobre<p/>
-
-Ferramenta didático-pedagógica para o diagnóstico de doenças do sistema nervoso de bovinos
-
-Software desenvolvido em linguagem Python 3
-
-Projeto para monografia de conclusão de curso em Medicina Veterinária
-
-Buiatric Care Neurology é um software livre; você pode redistribuí-lo e/ou
-modificá-lo dentro dos termos da Licença Pública Geral GNU como
-publicada pela Fundação do Software Livre (FSF); na versão 3 da
-Licença, ou (a seu critério) qualquer versão posterior.
-
-Este programa é distribuído na esperança de que possa ser  útil,
-mas SEM NENHUMA GARANTIA; sem uma garantia implícita de ADEQUAÇÃO
-a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR. Veja a
-Licença Pública Geral GNU para maiores detalhes.
-
-Você deve ter recebido uma cópia da Licença Pública Geral GNU junto
-com este programa, Se não, veja <http://www.gnu.org/licenses/>.
-
-Desenvolvedores: Walberson Dias da Silva, Rinaldo Batista Viana e João Ferreira de Santanna Filho

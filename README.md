@@ -116,14 +116,15 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Get a free API Key at [https://www.python.org/downloads/](https://www.python.org/downloads/)
+2. Clone the repo on
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+   or download at [https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip](https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip)
+3. Install NPM packages coding in you bash
    ```sh
-   npm install
+   pip install PyQt5
    ```
 4. Enter your API in `config.js`
    ```JS

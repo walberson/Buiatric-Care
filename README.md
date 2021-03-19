@@ -34,7 +34,7 @@
   <h3 align="center">Buiatric Care Neurology</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Didactic-pedagogical tool for the diagnosis of diseases of the bovine nervous system
     <br />
     <a href="https://github.com/walberson/BuiatricCare-Neurology"><strong>Explore the docs »</strong></a>
     <br />

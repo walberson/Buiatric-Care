@@ -110,10 +110,18 @@ Below you will find information on how to use the software for the first time.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image12.jpeg" alt="Imagem 12" height=280 width=440 >
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image13.jpeg" alt="Imagem 13" height=280 width=440 >
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image14.jpeg" alt="Imagem 14" height=280 width=440 >
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image15.jpeg" alt="Imagem 15" height=280 width=440 >
+<p>Article used for the diagnostic aid test for intoxication by Solanum Fastigiatum.</p>
+<p>RECH, R. R.; RISSI, D. R.; RODRIGUES, A.; PIEREZAN, F.; PIAZER, J. V.; KOMMERS, G. D.; BARROS, C. S. Intoxicação por Solanum fastigiatum (Solanaceae) em bovinos: epidemiologia, sinais clínicos e morfometria das lesões cerebelares. Pesquisa Veterinária Brasileira, v. 26, n. 3, p. 183-189, 2014.</p>
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image12.jpeg" alt="Imagem 12" height=380 width=540 >
+<p>Article used for the diagnostic aid test for Botulism.</p>
+<p>COSTA, G. M. D.; SALVADOR, S. C.; PEREIRA, M. N. Botulism in dairy cattle in southern Minas Gerais, Brazil. Ciência Rural, v. 38, n. 7, p. 2068-2071, 2008.</p>
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image13.jpeg" alt="Imagem 13" height=380 width=540 >
+<p>Article used for the diagnostic aid test for BHV-5 meningoencephalitis.</p>
+<p>SALVADOR, S. C.; LEMOS, R. A.; RIET-CORREA, F.; ROEHE, P. M.; OSÓRIO, A. L. A. Meningoencefalite em bovinos causada por herpesvírus bovino-5 no Mato Grosso do Sul e São Paulo. Pesquisa Veterinária Brasileira, v. 18, n. 2, p. 76-83, 2014.</p>
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image14.jpeg" alt="Imagem 14" height=380 width=540 >
+<p>Article used for the diagnostic aid test for Copper deficiency.</p>
+<p>TOKARNIA, C. H; DÖBEREINER, J. Sobre o "ronca", doença de etiologia obscura em bovinos, caracterizada por respiração ruidosa. Pesquisa Veterinária Brasileira, v. 18, n. 3/4, p. 93-98, 2014.</p>
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image15.jpeg" alt="Imagem 15" height=380 width=540 >
 
 
 _For more examples, please refer to the [Documentation](https://https://github.com/walberson/BuiatricCare-Neurology/)_

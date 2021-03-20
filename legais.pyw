@@ -106,7 +106,7 @@ class Ui_legais(object):
 
     def retranslateUi(self, suport):
         _translate = QtCore.QCoreApplication.translate
-        suport.setWindowTitle(_translate("suport", "Legal Informations - Buiatric Care"))
+        suport.setWindowTitle(_translate("suport", "Avisos legais - Buiatric Care"))
         self.textBrowser.setHtml(_translate("suport", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"

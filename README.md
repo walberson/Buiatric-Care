@@ -110,10 +110,10 @@ Below you will find information on how to use the software for the first time.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image12.jpeg" alt="Imagem 12" height=640 width=480 >
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image13.jpeg" alt="Imagem 13" height=640 width=480 >
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image14.jpeg" alt="Imagem 14" height=640 width=480 >
-<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image15.jpeg" alt="Imagem 15" height=640 width=480 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image12.jpeg" alt="Imagem 12" height=280 width=440 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image13.jpeg" alt="Imagem 13" height=280 width=440 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image14.jpeg" alt="Imagem 14" height=280 width=440 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image15.jpeg" alt="Imagem 15" height=280 width=440 >
 
 
 _For more examples, please refer to the [Documentation](https://https://github.com/walberson/BuiatricCare-Neurology/)_

@@ -110,10 +110,10 @@ Below you will find information on how to use the software for the first time.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<img src="imagens/image12.png" alt="Imagem 12" height=640 width=480 >
-<img src="imagens/image13.png" alt="Imagem 13" >
-<img src="imagens/image14.png" alt="Imagem 14" >
-<img src="imagens/image15.png" alt="Imagem 15" width=640 height=480  >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image12.jpeg" alt="Imagem 12" height=640 width=480 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image13.jpeg" alt="Imagem 13" height=640 width=480 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image14.jpeg" alt="Imagem 14" height=640 width=480 >
+<img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image15.jpeg" alt="Imagem 15" height=640 width=480 >
 
 
 _For more examples, please refer to the [Documentation](https://https://github.com/walberson/BuiatricCare-Neurology/)_

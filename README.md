@@ -124,7 +124,7 @@ Below you will find information on how to use the software for the first time.
 <img src="https://raw.githubusercontent.com/walberson/BuiatricCare-Neurology/master/imagens/image15.png" alt="Imagem 15" height=380 width=540 >
 
 
-_For more examples, please refer to the [Documentation](https://https://github.com/walberson/BuiatricCare-Neurology/)_
+_For more examples, please refer to the [Documentation](https://github.com/walberson/BuiatricCare-Neurology/)_
 
 
 

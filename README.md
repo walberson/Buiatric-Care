@@ -113,7 +113,7 @@ Below you will find information on how to use the software for the first time.
 <img src="imagens/image12.png" alt="Imagem 12" height=640 width=480 >
 <img src="imagens/image13.png" alt="Imagem 13" >
 <img src="imagens/image14.png" alt="Imagem 14" >
-<img src="imagens/image15.png" alt="Imagem 15" height=640 width=480 >
+<img src="imagens/image15.png" alt="Imagem 15" width=640 height=480  >
 
 
 _For more examples, please refer to the [Documentation](https://https://github.com/walberson/BuiatricCare-Neurology/)_

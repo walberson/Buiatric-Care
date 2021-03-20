@@ -98,7 +98,8 @@ Below you will find information on how to use the software for the first time.
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-   or download at [github.com/walberson/BuiatricCare-Neurology/archive/master.zip](https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip)
+   <p>or download at [github.com/walberson/BuiatricCare-Neurology/archive/master.zip](https://github.com/walberson/BuiatricCare-Neurology/archive/master.zip)</p>
+   <p>portuguese version [github.com/walberson/BuiatricCare-Neurology/archive/refs/heads/portuguese-version.zip](https://github.com/walberson/BuiatricCare-Neurology/archive/refs/heads/portuguese-version.zip)
 3. Install NPM packages coding in you bash
    ```sh
    pip install PyQt5

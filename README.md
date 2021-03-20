@@ -15,7 +15,7 @@
     <img src="logo.png" alt="Logo" >
   </a>
 
-  <h3 align="center">Luiatric Care Neurology</h3>
+  <h3 align="center">Buiatric Care Neurology</h3>
 
   <p align="center">
     Didactic-pedagogical tool for the diagnosis of diseases of the bovine nervous system
@@ -28,6 +28,19 @@
     <a href="https://github.com/walberson/BuiatricCare-Neurology/issues">Request Feature</a>
   </p>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
